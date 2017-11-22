@@ -26,6 +26,7 @@
     [self addCell:@"Text" class:@"YYTextExample"];
 //    [self addCell:@"Utility" class:@"YYUtilityExample"];
     [self addCell:@"Feed List Demo" class:@"YYFeedListExample"];
+    [self addCell:@"Runtime" class:@"YYRuntimeExampleViewController"];
     [self.tableView reloadData];
     
     //[self log];
