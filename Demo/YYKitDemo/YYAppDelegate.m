@@ -22,6 +22,8 @@
     if ([UIApplication sharedApplication].statusBarHidden) {
         size.height = 64;
     }
+    
+    
     return size;
 }
 
